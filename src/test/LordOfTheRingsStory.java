@@ -1,6 +1,6 @@
-package Story;
+package test;
 
-import Chars.*;
+import model.*;
 
 /**
  * LordOfTheRingsStory

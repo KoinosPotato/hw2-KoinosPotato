@@ -1,4 +1,4 @@
-package Chars;
+package model;
 
 /**
  * Hobbit class representing hobbits of the Shire

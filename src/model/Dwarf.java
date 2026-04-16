@@ -1,4 +1,4 @@
-package Chars;
+package model;
 
 /**
  * Dwarf class representing dwarves of Middle-earth

@@ -1,4 +1,4 @@
-package Chars;
+package model;
 
 /**
  * FellowshipMember class representing members of the Fellowship of the Ring

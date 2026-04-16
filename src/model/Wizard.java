@@ -1,4 +1,4 @@
-package Chars;
+package model;
 
 /**
  * Wizard class representing wizards of Middle-earth

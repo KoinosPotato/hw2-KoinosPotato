@@ -1,4 +1,4 @@
-package Chars;
+package model;
 
 /**
  * OneRing class representing the One Ring object from Lord of the Rings

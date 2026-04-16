@@ -1,4 +1,4 @@
-package Chars;
+package model;
 
 /**
  * Human class representing humans of Middle-earth

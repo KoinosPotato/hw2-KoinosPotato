@@ -1,4 +1,4 @@
-package Chars;
+package model;
 
 /**
  * Elf class representing elves of Middle-earth

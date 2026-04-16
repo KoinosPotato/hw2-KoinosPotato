@@ -1,4 +1,4 @@
-package Chars;
+package model;
 
 /**
  * Base Character class representing beings in Middle-earth
